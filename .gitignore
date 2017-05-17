@@ -1,1 +1,6 @@
-
+build
+coverage
+.gradle
+jest
+node_modules
+npm-debug.log*
