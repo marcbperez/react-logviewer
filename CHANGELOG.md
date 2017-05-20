@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file. This
 project adheres to [Semantic Versioning](http://semver.org).
 
+## Unreleased
+
+### Added
+
+  - NPM module configuration for this project.
+  - Project public folder with main template and favicon.
+  - Application index script, class, style and tests.
+  - Log view class and tests.
+  - Service class and tests.
+
 ## 0.2.0 - 2017-05-19
 
 ### Added
