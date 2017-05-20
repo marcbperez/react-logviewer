@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+}
+
+.app-content {
+  padding: 10px 20px;
+}
+
+.entries {
+  width: 100%;
+  text-align: left;
+}
