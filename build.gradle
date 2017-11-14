@@ -7,7 +7,7 @@ def testDir = "${path}/test"
 
 task wrapper(type: Wrapper) {
   description "Creates the project wrapper."
-  gradleVersion = "3.4.1"
+  gradleVersion = "4.10"
 }
 
 task watch(type: Exec) {
